@@ -4,6 +4,6 @@ All notable changes to the "millennius-high-contrast" extension will be document
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-- Initial release
+### Initial release
 
 * Change diffEditor colors to default VSCode Dark Theme.
