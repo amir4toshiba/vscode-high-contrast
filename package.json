@@ -1,0 +1,22 @@
+{
+    "name": "millennius-high-contrast",
+    "displayName": "Millennius High Contrast",
+    "description": "A High Contrast theme developed at Millennius Labs.",
+    "version": "0.0.1",
+    "publisher": "MillenniusLabs",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Millennius High Contrast",
+                "uiTheme": "hc-black",
+                "path": "./themes/Millennius High Contrast-color-theme.json"
+            }
+        ]
+    }
+}
